@@ -26,8 +26,8 @@ Para cada convênio, o sistema registra:
 | Tabela | Tabela de honorários médicos acordada |
 | Med | Tabela de medicamentos |
 | Mat | Tabela de materiais |
-| Fisio_andares | Quantidade de fisioterapias por dia na clínica médica |
-| Fisio_uti | Quantidade de fisioterapias por dia nas UTIs |
+| Fisio_B | Quantidade de fisioterapias por dia na clínica médica |
+| Fisio_A | Quantidade de fisioterapias por dia nas UTIs |
 | Fonoaudiologia | Quantidade de consultas de fonoaudiologia por dia |
 | Data | Data e horário do registro ou alteração |
 
